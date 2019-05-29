@@ -1,0 +1,11 @@
+C:\Users\Mike\backend\list-of-dictionaries-about-words\bin\Debug\netcoreapp2.2\list-of-dictionaries-about-words.deps.json
+C:\Users\Mike\backend\list-of-dictionaries-about-words\bin\Debug\netcoreapp2.2\list-of-dictionaries-about-words.runtimeconfig.json
+C:\Users\Mike\backend\list-of-dictionaries-about-words\bin\Debug\netcoreapp2.2\list-of-dictionaries-about-words.runtimeconfig.dev.json
+C:\Users\Mike\backend\list-of-dictionaries-about-words\bin\Debug\netcoreapp2.2\list-of-dictionaries-about-words.dll
+C:\Users\Mike\backend\list-of-dictionaries-about-words\bin\Debug\netcoreapp2.2\list-of-dictionaries-about-words.pdb
+C:\Users\Mike\backend\list-of-dictionaries-about-words\obj\Debug\netcoreapp2.2\list-of-dictionaries-about-words.csprojAssemblyReference.cache
+C:\Users\Mike\backend\list-of-dictionaries-about-words\obj\Debug\netcoreapp2.2\list-of-dictionaries-about-words.csproj.CoreCompileInputs.cache
+C:\Users\Mike\backend\list-of-dictionaries-about-words\obj\Debug\netcoreapp2.2\list-of-dictionaries-about-words.AssemblyInfoInputs.cache
+C:\Users\Mike\backend\list-of-dictionaries-about-words\obj\Debug\netcoreapp2.2\list-of-dictionaries-about-words.AssemblyInfo.cs
+C:\Users\Mike\backend\list-of-dictionaries-about-words\obj\Debug\netcoreapp2.2\list-of-dictionaries-about-words.dll
+C:\Users\Mike\backend\list-of-dictionaries-about-words\obj\Debug\netcoreapp2.2\list-of-dictionaries-about-words.pdb
